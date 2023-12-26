@@ -10,13 +10,10 @@ public class Java_input_output {
 
         System.out.print("Enter integer value: ");
         integer_value = sc.nextInt();
-
         System.out.print("Enter character value: ");
         character_value = sc.next().charAt(0);
-        
         System.out.print("Enter floating value: ");
         floating_value = sc.nextFloat();
-
         System.out.print("Enter double value: ");
         big_floating_value = sc.nextDouble();
 
