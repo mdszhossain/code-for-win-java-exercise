@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Java_input_output {
+public class Java1_input_output {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Java_sum_two_numbers {
+public class Java2_sum_two_numbers {
     public static void main(String args[]){
 
         Scanner sc = new Scanner(System.in);
